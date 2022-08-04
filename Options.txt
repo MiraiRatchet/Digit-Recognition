@@ -1,0 +1,8 @@
+# Number of hidden layers in neural network
+1
+# Number of neurons on each hidden layer
+128
+# Number of epoches
+1
+# Learning rate (0.1 recommended)
+0.1
